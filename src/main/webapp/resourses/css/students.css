@@ -1,0 +1,58 @@
+body{
+    background-image: url(../images/AdobeStock_291771935.jpeg);
+    background-position: center;
+    background-size: inherit;
+
+    font-family: Raleway;
+}
+.sheme_input{
+
+    display: flex;
+    flex-direction:column;
+
+}
+h1{
+    text-align: center;
+
+    margin: 50px 81px 0 0;
+
+
+}
+.submin_left{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+.submin_right{
+    display: flex;
+    flex-direction: column;
+
+}
+.look{
+    margin: 30px 10px 0 0;
+}
+.mody{
+    margin: 10px 10px 0 0;
+}
+.exit{
+    margin-left: 10px;
+
+}
+.navbar{
+    margin-top: 5px;
+}
+.create{
+    margin: 30px  0 0;
+}
+.delite{
+    margin: 10px  0 0;
+}
+.stud-table{
+    border-collapse: collapse;
+    margin-top: 30px;
+    background-color: white;
+}
+form{
+    display: contents;
+}
